@@ -31,7 +31,7 @@ const corsOptions = {
     'https://admin.grandhotelaeroport.com',
     'https://admin.grandhotelcitydouala.com',
     'https://api.grandhotelcitydouala.com',
-    'https://hotel.grandhotelcitydouala.com'
+    'https://grandhotelcitydouala.com'
   ],
   credentials: true,
   optionsSuccessStatus: 200
